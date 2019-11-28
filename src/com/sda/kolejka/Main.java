@@ -8,9 +8,9 @@ public class Main {
       //  KolejkaLista kolejka = new KolejkaLista();
         KolejkaObj kolejka = new KolejkaObj();
 
-        kolejka.add(8);
-        kolejka.add(10);
-        kolejka.add(12);
+//        kolejka.add(8);
+//        kolejka.add(10);
+//        kolejka.add(12);
 
         System.out.println(kolejka);
 
